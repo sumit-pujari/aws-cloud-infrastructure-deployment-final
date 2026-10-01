@@ -528,9 +528,4 @@ EC2 → S3
 S3 → EC2
 ```
 
-```
 
-This validates both:
-
-EC2 → S3
-S3 → EC2
